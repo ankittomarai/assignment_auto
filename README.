@@ -1,0 +1,16 @@
+### How to Read the files 
+These notebooks cover different functionality and serve the purpose.
+*1 Data Preparation - This file explains data quality checks and fixes and output is saved as CSV file.
+*2.1 EDA Hypothesis Test with complete data - In this notebook, EDA is done on complete processed dataset. Decisions and conclusions are explained in comment and markdown space. 
+
+*2.2 EDA Hypothesis Test with Lower Segment  - In this notebook, EDA is done for price segment based ssytem. Even though it is not considered for final model. It is worth checking if we have price segments in data.
+
+*3. Model Development - This notebook has model development. It includes :
+    a. Feature Engineering 
+    b. Baseline model 
+    c. Random Forest Model - Experiment 1
+    d. XGBoost Model - Experiement 2
+    e. Inference of the selected 20 customers for all the model. 
+    f. Recommendations
+    
+
