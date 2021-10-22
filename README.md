@@ -6,10 +6,11 @@ These notebooks cover different functionality and serve the purpose.
 2.2 EDA Hypothesis Test with Lower Segment  - In this notebook, EDA is done for price segment based ssytem. Even though it is not considered for final model. It is worth checking if we have price segments in data.
 
 3. Model Development - This notebook has model development. It includes :
-    a. Feature Engineering 
+   <li> a. Feature Engineering 
     b. Baseline model 
     c. Random Forest Model - Experiment 1
     d. XGBoost Model - Experiement 2
     e. Inference of the selected 20 customers for all the model. 
     f. Recommendations
+    </li>
 
